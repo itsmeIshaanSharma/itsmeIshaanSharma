@@ -1,4 +1,5 @@
-<h3 align="center">A passionate FullStack Developer and AI/ML Enthusiast \</h3>
+<h1><center>Ishaan Sharma</h1>
+<h3 align="center">A passionate FullStack Developer and AI/ML Enthusiast</h3>
 
 - 🔭 I’m currently working on **Logic Building - Data Structures and Algorithms (DSA)**
 
