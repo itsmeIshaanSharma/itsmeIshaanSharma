@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ishaan-sharma-4b2719324/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ishaan-sharma-4b2719324/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ishaan-sharma-4b2719324/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ishaan-sharma-4b2719324/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/user:27571967" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:27571967" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/dev_warlock" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dev_warlock" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/devwarlock" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="devwarlock" height="30" width="40" /></a>
